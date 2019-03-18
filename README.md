@@ -7,3 +7,13 @@ https://arxiv.org/abs/1605.07678
 https://explained.ai/matrix-calculus/index.html
 
 
+
+
+
+# Application 
+
+### Google Colab Free GPU Tutorial
+https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d
+
+
+
