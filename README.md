@@ -22,7 +22,8 @@ https://explained.ai/matrix-calculus/index.html
 ### 1. AN ANALYSIS OF DEEP NEURAL NETWORK MODELS FOR PRACTICAL APPLICATIONS
 https://arxiv.org/abs/1605.07678
 
-
+### Dive into Deep Learning
+http://d2l.ai/index.html
 
 
 ## Application 
