@@ -25,6 +25,9 @@ https://arxiv.org/abs/1605.07678
 ### Dive into Deep Learning
 http://d2l.ai/index.html
 
+### Grokking Deep learning
+https://www.manning.com/books/grokking-deep-learning
+
 
 ## Application 
 
